@@ -1,0 +1,7 @@
+{
+  "name": "am1",
+  "private": true,
+  "devDependencies": {
+    "@cloudflare/kv-asset-handler": "^0.1.0"
+  }
+}

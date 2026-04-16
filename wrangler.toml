@@ -1,0 +1,7 @@
+name = "am1"
+main = "workers-site/index.js"
+compatibility_date = "2026-04-16"
+workers_dev = false
+type = "javascript"
+route = ["erd.mmec.ca/am1", "erd.mmec.ca/am1/*"]
+site = { bucket = "./public" }
